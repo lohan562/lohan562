@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&text=Input%20text&reversal=true&textBg=false&fontSize=32&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Lohan&animation=twinkling)
 
 My full name is **Hoang Loc Tran**, a student in the  [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/).
 
@@ -13,4 +13,5 @@ Albert Einstein said:
 
 > Life is like riding a bicycle. 
 > To keep your balance, you must keep moving.
-this is the southern thread of my life.
+
+So, this is the *southern thread* of my life.
