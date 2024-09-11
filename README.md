@@ -6,11 +6,11 @@ I have studied **C/C++** programming language.
 
 * I have practied coding on:
   
-  *(https://www.hackerrank.com/)
+  * (https://www.hackerrank.com/)
   
-  *(https://leetcode.com/)
+  * (https://leetcode.com/)
   
-  *(https://codesignal.com/)
+  * (https://codesignal.com/)
   
 * My hobbies:
   * Reading books
