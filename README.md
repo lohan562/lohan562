@@ -5,8 +5,11 @@ My full name is **Hoang Loc Tran**, a student in the  [Dept. of Computer Science
 I have studied **C/C++** programming language.
 
 * I have practied coding on:
+  
   *(https://www.hackerrank.com/)
+  
   *(https://leetcode.com/)
+  
   *(https://codesignal.com/)
   
 * My hobbies:
