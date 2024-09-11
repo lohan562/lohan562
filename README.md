@@ -4,7 +4,7 @@ My full name is **Hoang Loc Tran**, a student in the  [Dept. of Computer Science
 
 I have studied **C/C++** programming language.
 
-* I have practied coding on:
+* I have practiced coding on:
   
   * [Hackerrank](https://www.hackerrank.com)
   
